@@ -1,3 +1,3 @@
-Good day
+Hello there!
 
-This is just a training repository
+This is just a training repository.
